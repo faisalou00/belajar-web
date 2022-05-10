@@ -1,0 +1,61 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+}.tittle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 100%;
+    background-color:white;
+    color: darkcyan;
+    font-size: 30px;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+}.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 700px;
+    height: 100%;
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+}.getstarted{
+    width: 200px;
+    height: 100%;
+    background-color: orangered;
+}.contents{
+    display: flex;
+    width: 100%;
+    height: 1000px;
+    background-color: red;
+}.inform{
+    width: 700px;
+    height: 100%;
+    background-color: cornflowerblue;
+}.maintitle{
+    width:100%;
+    height:500px;
+    background-color: crimson;
+    color: black;
+}.style{
+    
+}
+
+.paragraf{
+    width: 100%;
+    height: 300px;
+    background-color: darkgreen;
+}.learnmore{
+    width:100%;
+    height:100px ;
+    background-color: darkmagenta;
+}.image{
+    width: 100%;
+    height: 100%;
+    background-color: yellow;
+}
